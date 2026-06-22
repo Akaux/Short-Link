@@ -19,10 +19,10 @@ Este projeto utiliza a API da Rebrandly para transformar URLs longas em links cu
 
 -Antes de executar o projeto, certifique-se de possuir:
 
-• Visual Studio Code instalado.
-• Extensão Live Server instalada no VS Code.
-• Conexão com a internet para acessar a API da Rebrandly.
-• Uma chave de API válida da Rebrandly.
+* Visual Studio Code instalado.
+* Extensão Live Server instalada no VS Code.
+* Conexão com a internet para acessar a API da Rebrandly.
+* Uma chave de API válida da Rebrandly.
 
 ---
 
